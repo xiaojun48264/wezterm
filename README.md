@@ -1,2 +1,0 @@
-# wezterm
-wezterm配置
